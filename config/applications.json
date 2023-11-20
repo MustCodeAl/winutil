@@ -367,6 +367,7 @@
 		"winget": "Notepad++.Notepad++",
 		"choco": "notepadplusplus"
 	},
+	
 	"WPFInstallnuget": {
 		"winget": "Microsoft.NuGet",
 		"choco": "nuget.commandline"
@@ -475,6 +476,10 @@
 		"Winget": "Rustlang.Rust.MSVC",
 		"choco": "rust"
 	},
+	"WPFinstallportmaster": {
+		"winget": "Safing.Portmaster",
+		"choco": "na"
+	}
 	"WPFInstallsandboxie": {
 		"winget": "Sandboxie.Plus",
 		"choco": "sandboxie"
